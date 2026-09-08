@@ -3,15 +3,6 @@
     <channel>
         <title>Notry</title>
         <item>
-            <title>1.1.1</title>
-            <pubDate>Tue, 08 Sep 2026 14:23:47 +0900</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kanamaruhd-dev/notry-demo-dist/releases/download/v1.1.1/Notry-1.1.1.zip" length="1052641" type="application/octet-stream" sparkle:edSignature="2s9llaG5nixevKYetxPHWBZ0l3nd5KeQnTDSJu719aD7khRZTR1DfrOO091BiGv7kHPwzOb3FNQ75Udv5l3HBg=="/>
-        </item>
-        <item>
             <title>1.1.0</title>
             <pubDate>Mon, 07 Sep 2026 19:42:19 +0900</pubDate>
             <sparkle:version>2</sparkle:version>
