@@ -3,6 +3,21 @@
     <channel>
         <title>Notry</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Mon, 14 Sep 2026 11:00:15 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>NOTRY 1.1.2</h2>
+<ul>
+<li>アプリの名前を「NOTRY（仮称）」から「NOTRY」に変えました。機能と保存しているデータは変わりません。</li>
+<li>このアプリは、新しいバージョンがあるかを自動で確認します（1.1.0 から）。</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/kanamaruhd-dev/notry-demo-dist/releases/download/v1.1.2/Notry-1.1.2.zip" length="1052607" type="application/octet-stream" sparkle:edSignature="5FwwqdOhYa6nOJsPNmBEw23ZrZ05amKiKmuY3HBNqd6zA/wuSlbZAf7yJKhXkGzn3mIBRwFMXdMczl92QWXmCg=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Mon, 07 Sep 2026 19:42:19 +0900</pubDate>
             <sparkle:version>2</sparkle:version>
