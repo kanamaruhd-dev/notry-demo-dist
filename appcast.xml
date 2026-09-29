@@ -3,6 +3,20 @@
     <channel>
         <title>Notry</title>
         <item>
+            <title>1.1.3</title>
+            <pubDate>Tue, 29 Sep 2026 22:20:59 +0900</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>NOTRY 1.1.3</h2>
+<ul>
+<li>台帳の見出しの日付が、1日先になっていたのを直しました。ファイルの名前と、書いた中身はこれまでどおりです。</li>
+<li>Intel の Mac でも動くようになりました。</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/kanamaruhd-dev/notry-demo-dist/releases/download/v1.1.3/Notry-1.1.3.zip" length="1084442" type="application/octet-stream" sparkle:edSignature="nWons8aH/iK6zYKmDcumZ/GLZKyQLrJ4WlOZyg9v3+pnE5bMPe3fHcFquzWW5nKWZrm7WOpHD4FqcM6GCyKjAQ=="/>
+        </item>
+        <item>
             <title>1.1.2</title>
             <pubDate>Mon, 14 Sep 2026 11:00:15 +0900</pubDate>
             <sparkle:version>4</sparkle:version>
